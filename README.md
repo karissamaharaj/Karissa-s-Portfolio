@@ -1,4 +1,4 @@
-# Karissas-Portfolio
+# Karissa's-Portfolio
 This is where I will be displaying my projects and case studies.
 
 Project 1: R Forecasting Methods Project
